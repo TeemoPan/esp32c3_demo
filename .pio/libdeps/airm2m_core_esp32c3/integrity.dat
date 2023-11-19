@@ -1,0 +1,4 @@
+seeed-studio/Grove 4-Digit Display@^1.0.0
+arduino-libraries/NTPClient@^3.2.1
+adafruit/Adafruit AHTX0@^2.0.5
+bodmer/TFT_eSPI@^2.5.33
